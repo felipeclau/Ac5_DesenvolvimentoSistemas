@@ -1,9 +1,6 @@
 body{
     background-color: white;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;    
+    margin: 0 auto;
 }
 p.body{
     margin-top: 0px;
