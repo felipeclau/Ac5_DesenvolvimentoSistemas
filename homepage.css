@@ -64,3 +64,16 @@ p.footer{
     font-size: 15px;
     color: #808080;
 }
+.estiloBotao {
+    float: left;
+    padding: 20px;
+    background-color: cornflowerblue;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.estiloBotao a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
