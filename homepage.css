@@ -6,7 +6,7 @@ p.body{
     margin-top: 0px;
 }
 header{
-    width: 1366px;
+    max-width: 100%;
     height: 60px;
     background: #2E8B57;
 }
@@ -50,7 +50,7 @@ img.logo{
     margin-left: -5px;
 }
 footer{
-    width: 1366px;
+    max-width: 100%;
     height: 40px;
     margin-top: 238px;
     background: #e9e9e9;
@@ -61,3 +61,16 @@ p.footer{
     font-size: 15px;
     color: #808080;
 }
+.estiloBotao {
+    float: left;
+    padding: 20px;
+    background-color: cornflowerblue;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.estiloBotao a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
