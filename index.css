@@ -1,9 +1,6 @@
 body{
     background-color: white;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;    
+    margin: 0 auto;
 }
 p.body{
     margin-top: 0px;
@@ -28,6 +25,7 @@ header{
     color: white;
     margin-top: 10px;
     margin-right: 5px;
+    text-decoration: none;
 }
 .p3{
     text-align: center;
@@ -71,9 +69,20 @@ p.footer{
     line-height: 25px;
     border-radius: 4px;
 }
-
 .estiloBotao a:hover {
     background-color: #ddd;
     color: black;
   }
-  
+
+.estiloHeader a:hover{
+    background-color: #2E8B57;
+    color: red;
+    text-decoration: none;
+}
+a:link{
+    
+    text-decoration: none;
+} 
+a:visited{
+    color: white;
+}
