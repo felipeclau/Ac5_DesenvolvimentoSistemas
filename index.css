@@ -1,16 +1,4 @@
 
-.estiloBotao {
-    float: left;
-    padding: 20px;
-    background-color: cornflowerblue;
-    line-height: 25px;
-    border-radius: 4px;
-}
-.estiloBotao a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
 .estiloHeader a:hover{
     background-color: #2E8B57;
     color: red;
