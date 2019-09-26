@@ -50,6 +50,12 @@ img.logo{
     margin-top: 0px;
     margin-left: -5px;
 }
+img.estudantehome{
+    float: Right;
+    margin-top: -274px;
+    margin-right: 200px;
+    width: 300px;
+}
 footer{
     max-width: 100%;
     height: 40px;
